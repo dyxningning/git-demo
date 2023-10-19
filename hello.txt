@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 git!hello 1111111111111111
 git!hello 2222222222222222
 git!hello
+hello git 6666666666666666
+hello git 5555555555555555
 git!hello
 git!hello
 git!hello
@@ -15,9 +18,5 @@ git!hello
 git!hello
 git!hello
 git!hello
-git!hello master test 这是master
-git!hello
-git!hello
-git!hello
-git!hello
-git!hello 
+git!hello 这是master test
+git!hello 这是hot-f test
